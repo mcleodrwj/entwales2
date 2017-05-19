@@ -1038,7 +1038,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/portmeirion-view-of-central-plaza-2000x1328-321.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/portmeirion-view-of-central-plaza-2000x1328-323.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
